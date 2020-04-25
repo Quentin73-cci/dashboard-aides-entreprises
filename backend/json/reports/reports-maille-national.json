@@ -1,0 +1,74 @@
+[
+  {
+    "kpi_top_10_naf": [
+      {
+        "libelle_section_naf": "Activit\u00e9s financi\u00e8res et d'assurance", 
+        "montant": "327171563.00", 
+        "nombre": "3137.00", 
+        "section_naf": "K"
+      }, 
+      {
+        "libelle_section_naf": "Commerce ; r\u00e9paration d'automobiles et de motocycles", 
+        "montant": "305032378.00", 
+        "nombre": "8384.00", 
+        "section_naf": "G"
+      }, 
+      {
+        "libelle_section_naf": "Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques", 
+        "montant": "264018003.00", 
+        "nombre": "4674.00", 
+        "section_naf": "M"
+      }, 
+      {
+        "libelle_section_naf": "Non connu", 
+        "montant": "198547131.00", 
+        "nombre": "6594.00", 
+        "section_naf": "Z"
+      }, 
+      {
+        "libelle_section_naf": "Industrie manufacturi\u00e8re", 
+        "montant": "191829751.00", 
+        "nombre": "2875.00", 
+        "section_naf": "C"
+      }, 
+      {
+        "libelle_section_naf": "Information et communication", 
+        "montant": "113354624.00", 
+        "nombre": "939.00", 
+        "section_naf": "J"
+      }, 
+      {
+        "libelle_section_naf": "Construction", 
+        "montant": "90591104.00", 
+        "nombre": "3431.00", 
+        "section_naf": "F"
+      }, 
+      {
+        "libelle_section_naf": "Transports et entreposage", 
+        "montant": "66166601.00", 
+        "nombre": "1051.00", 
+        "section_naf": "H"
+      }, 
+      {
+        "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
+        "montant": "64927343.00", 
+        "nombre": "1581.00", 
+        "section_naf": "N"
+      }, 
+      {
+        "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
+        "montant": "51355446.00", 
+        "nombre": "1432.00", 
+        "section_naf": "Q"
+      }, 
+      {
+        "libelle_section_naf": "Autres sections NAF", 
+        "montant": "145396381.00", 
+        "nombre": "9347.00", 
+        "section_naf": "Autres"
+      }
+    ], 
+    "montant": "1818390325.00", 
+    "nombre": "43445.00"
+  }
+]

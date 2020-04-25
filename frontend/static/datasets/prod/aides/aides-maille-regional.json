@@ -3,322 +3,328 @@
     "kpi_top_10_naf": [
       {
         "libelle_section_naf": "Commerce ; r\u00e9paration d'automobiles et de motocycles", 
-        "montant": "1289789.00", 
-        "nombre": "935", 
+        "montant": "1447055.00", 
+        "nombre": "1052", 
         "section_naf": "G"
       }, 
       {
         "libelle_section_naf": "Construction", 
-        "montant": "856071.00", 
-        "nombre": "594", 
+        "montant": "922795.00", 
+        "nombre": "642", 
         "section_naf": "F"
       }, 
       {
         "libelle_section_naf": "H\u00e9bergement et restauration", 
-        "montant": "798569.00", 
-        "nombre": "561", 
+        "montant": "893846.00", 
+        "nombre": "630", 
         "section_naf": "I"
       }, 
       {
         "libelle_section_naf": "Autres activit\u00e9s de services", 
-        "montant": "537206.00", 
-        "nombre": "439", 
+        "montant": "599864.00", 
+        "nombre": "489", 
         "section_naf": "S"
       }, 
       {
-        "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
-        "montant": "539397.00", 
-        "nombre": "413", 
-        "section_naf": "N"
-      }, 
-      {
         "libelle_section_naf": "Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques", 
-        "montant": "542237.00", 
-        "nombre": "392", 
+        "montant": "594268.00", 
+        "nombre": "432", 
         "section_naf": "M"
       }, 
       {
+        "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
+        "montant": "567069.00", 
+        "nombre": "432", 
+        "section_naf": "N"
+      }, 
+      {
         "libelle_section_naf": "Industrie manufacturi\u00e8re", 
-        "montant": "488969.00", 
-        "nombre": "355", 
+        "montant": "532239.00", 
+        "nombre": "388", 
         "section_naf": "C"
       }, 
       {
         "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
-        "montant": "450895.00", 
-        "nombre": "323", 
+        "montant": "512211.00", 
+        "nombre": "366", 
         "section_naf": "Q"
       }, 
       {
         "libelle_section_naf": "Enseignement", 
-        "montant": "293554.00", 
-        "nombre": "232", 
+        "montant": "312949.00", 
+        "nombre": "250", 
         "section_naf": "P"
       }, 
       {
         "libelle_section_naf": "Transports et entreposage", 
-        "montant": "315523.00", 
-        "nombre": "221", 
+        "montant": "345001.00", 
+        "nombre": "242", 
         "section_naf": "H"
       }, 
       {
         "libelle_section_naf": "Autres sections NAF", 
-        "montant": "812691.00", 
-        "nombre": "589", 
+        "montant": "874193.00", 
+        "nombre": "633", 
         "section_naf": "Autres"
       }
     ], 
     "libelle": "Guadeloupe", 
-    "montant": "6924901.00", 
-    "nombre": "5054", 
+    "montant": "7601490.00", 
+    "nombre": "5556", 
     "reg": "01"
   }, 
   {
     "kpi_top_10_naf": [
       {
         "libelle_section_naf": "Commerce ; r\u00e9paration d'automobiles et de motocycles", 
-        "montant": "965769.00", 
-        "nombre": "698", 
+        "montant": "1106258.00", 
+        "nombre": "803", 
         "section_naf": "G"
       }, 
       {
         "libelle_section_naf": "Autres activit\u00e9s de services", 
-        "montant": "600400.00", 
-        "nombre": "475", 
+        "montant": "664659.00", 
+        "nombre": "527", 
         "section_naf": "S"
       }, 
       {
         "libelle_section_naf": "Construction", 
-        "montant": "550450.00", 
-        "nombre": "381", 
+        "montant": "616629.00", 
+        "nombre": "429", 
         "section_naf": "F"
       }, 
       {
         "libelle_section_naf": "H\u00e9bergement et restauration", 
-        "montant": "536218.00", 
-        "nombre": "372", 
+        "montant": "615088.00", 
+        "nombre": "427", 
         "section_naf": "I"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques", 
-        "montant": "463622.00", 
-        "nombre": "337", 
+        "montant": "518870.00", 
+        "nombre": "375", 
         "section_naf": "M"
       }, 
       {
-        "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
-        "montant": "424125.00", 
-        "nombre": "317", 
-        "section_naf": "N"
-      }, 
-      {
         "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
-        "montant": "413719.00", 
-        "nombre": "308", 
+        "montant": "481773.00", 
+        "nombre": "356", 
         "section_naf": "Q"
       }, 
       {
+        "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
+        "montant": "469998.00", 
+        "nombre": "349", 
+        "section_naf": "N"
+      }, 
+      {
         "libelle_section_naf": "Industrie manufacturi\u00e8re", 
-        "montant": "363251.00", 
-        "nombre": "278", 
+        "montant": "402150.00", 
+        "nombre": "307", 
         "section_naf": "C"
       }, 
       {
         "libelle_section_naf": "Transports et entreposage", 
-        "montant": "271904.00", 
-        "nombre": "196", 
+        "montant": "310234.00", 
+        "nombre": "223", 
         "section_naf": "H"
       }, 
       {
         "libelle_section_naf": "Enseignement", 
-        "montant": "240044.00", 
-        "nombre": "191", 
+        "montant": "257844.00", 
+        "nombre": "205", 
         "section_naf": "P"
       }, 
       {
         "libelle_section_naf": "Autres sections NAF", 
-        "montant": "506835.00", 
-        "nombre": "380", 
+        "montant": "553169.00", 
+        "nombre": "414", 
         "section_naf": "Autres"
       }
     ], 
     "libelle": "Martinique", 
-    "montant": "5336337.00", 
-    "nombre": "3933", 
+    "montant": "5996672.00", 
+    "nombre": "4415", 
     "reg": "02"
   }, 
   {
     "kpi_top_10_naf": [
       {
         "libelle_section_naf": "Commerce ; r\u00e9paration d'automobiles et de motocycles", 
-        "montant": "214014.00", 
-        "nombre": "149", 
+        "montant": "264553.00", 
+        "nombre": "187", 
         "section_naf": "G"
       }, 
       {
         "libelle_section_naf": "Construction", 
-        "montant": "161864.00", 
-        "nombre": "111", 
+        "montant": "197864.00", 
+        "nombre": "135", 
         "section_naf": "F"
       }, 
       {
         "libelle_section_naf": "H\u00e9bergement et restauration", 
-        "montant": "137856.00", 
-        "nombre": "95", 
+        "montant": "175829.00", 
+        "nombre": "122", 
         "section_naf": "I"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques", 
-        "montant": "131280.00", 
-        "nombre": "91", 
+        "montant": "145980.00", 
+        "nombre": "101", 
         "section_naf": "M"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
-        "montant": "95864.00", 
-        "nombre": "72", 
+        "montant": "106049.00", 
+        "nombre": "80", 
         "section_naf": "N"
       }, 
       {
-        "libelle_section_naf": "Autres activit\u00e9s de services", 
-        "montant": "83524.00", 
-        "nombre": "64", 
-        "section_naf": "S"
-      }, 
-      {
-        "libelle_section_naf": "Enseignement", 
-        "montant": "81928.00", 
-        "nombre": "59", 
-        "section_naf": "P"
-      }, 
-      {
-        "libelle_section_naf": "Industrie manufacturi\u00e8re", 
-        "montant": "79789.00", 
-        "nombre": "56", 
-        "section_naf": "C"
-      }, 
-      {
-        "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
-        "montant": "78499.00", 
-        "nombre": "55", 
-        "section_naf": "Q"
-      }, 
-      {
         "libelle_section_naf": "Agriculture, sylviculture et p\u00eache", 
-        "montant": "70274.00", 
-        "nombre": "49", 
+        "montant": "110084.00", 
+        "nombre": "77", 
         "section_naf": "A"
       }, 
       {
+        "libelle_section_naf": "Autres activit\u00e9s de services", 
+        "montant": "98123.00", 
+        "nombre": "77", 
+        "section_naf": "S"
+      }, 
+      {
+        "libelle_section_naf": "Industrie manufacturi\u00e8re", 
+        "montant": "95593.00", 
+        "nombre": "67", 
+        "section_naf": "C"
+      }, 
+      {
+        "libelle_section_naf": "Enseignement", 
+        "montant": "85559.00", 
+        "nombre": "62", 
+        "section_naf": "P"
+      }, 
+      {
+        "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
+        "montant": "87649.00", 
+        "nombre": "62", 
+        "section_naf": "Q"
+      }, 
+      {
         "libelle_section_naf": "Autres sections NAF", 
-        "montant": "134234.00", 
-        "nombre": "93", 
+        "montant": "149622.00", 
+        "nombre": "106", 
         "section_naf": "Autres"
       }
     ], 
     "libelle": "Guyane", 
-    "montant": "1269126.00", 
-    "nombre": "894", 
+    "montant": "1516905.00", 
+    "nombre": "1076", 
     "reg": "03"
   }, 
   {
     "kpi_top_10_naf": [
       {
         "libelle_section_naf": "Commerce ; r\u00e9paration d'automobiles et de motocycles", 
-        "montant": "3361584.00", 
-        "nombre": "2452", 
+        "montant": "3678176.00", 
+        "nombre": "2691", 
         "section_naf": "G"
       }, 
       {
         "libelle_section_naf": "Construction", 
-        "montant": "2075797.00", 
-        "nombre": "1417", 
+        "montant": "2260705.00", 
+        "nombre": "1545", 
         "section_naf": "F"
       }, 
       {
         "libelle_section_naf": "H\u00e9bergement et restauration", 
-        "montant": "1725407.00", 
-        "nombre": "1229", 
+        "montant": "1866676.00", 
+        "nombre": "1329", 
         "section_naf": "I"
       }, 
       {
         "libelle_section_naf": "Autres activit\u00e9s de services", 
-        "montant": "1442197.00", 
-        "nombre": "1150", 
+        "montant": "1558843.00", 
+        "nombre": "1247", 
         "section_naf": "S"
       }, 
       {
         "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
-        "montant": "1164708.00", 
-        "nombre": "829", 
+        "montant": "1309420.00", 
+        "nombre": "933", 
         "section_naf": "Q"
       }, 
       {
         "libelle_section_naf": "Industrie manufacturi\u00e8re", 
-        "montant": "1034478.00", 
-        "nombre": "774", 
+        "montant": "1127869.00", 
+        "nombre": "849", 
         "section_naf": "C"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques", 
-        "montant": "1018844.00", 
-        "nombre": "719", 
+        "montant": "1115070.00", 
+        "nombre": "789", 
         "section_naf": "M"
       }, 
       {
         "libelle_section_naf": "Enseignement", 
-        "montant": "871602.00", 
-        "nombre": "685", 
+        "montant": "924213.00", 
+        "nombre": "731", 
         "section_naf": "P"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
-        "montant": "517168.00", 
-        "nombre": "378", 
+        "montant": "561908.00", 
+        "nombre": "414", 
         "section_naf": "N"
       }, 
       {
         "libelle_section_naf": "Arts, spectacles et activit\u00e9s r\u00e9cr\u00e9atives", 
-        "montant": "456894.00", 
-        "nombre": "352", 
+        "montant": "495167.00", 
+        "nombre": "382", 
         "section_naf": "R"
       }, 
       {
         "libelle_section_naf": "Autres sections NAF", 
-        "montant": "1563390.00", 
-        "nombre": "1122", 
+        "montant": "1703761.00", 
+        "nombre": "1229", 
         "section_naf": "Autres"
       }
     ], 
     "libelle": "La R\u00e9union", 
-    "montant": "15232069.00", 
-    "nombre": "11107", 
+    "montant": "16601808.00", 
+    "nombre": "12139", 
     "reg": "04"
   }, 
   {
     "kpi_top_10_naf": [
       {
         "libelle_section_naf": "Commerce ; r\u00e9paration d'automobiles et de motocycles", 
-        "montant": "114568.00", 
-        "nombre": "80", 
+        "montant": "177788.00", 
+        "nombre": "126", 
         "section_naf": "G"
       }, 
       {
         "libelle_section_naf": "H\u00e9bergement et restauration", 
-        "montant": "57677.00", 
-        "nombre": "39", 
+        "montant": "80290.00", 
+        "nombre": "55", 
         "section_naf": "I"
       }, 
       {
         "libelle_section_naf": "Construction", 
-        "montant": "50143.00", 
-        "nombre": "35", 
+        "montant": "75241.00", 
+        "nombre": "53", 
         "section_naf": "F"
       }, 
       {
+        "libelle_section_naf": "Transports et entreposage", 
+        "montant": "47180.00", 
+        "nombre": "32", 
+        "section_naf": "H"
+      }, 
+      {
         "libelle_section_naf": "Enseignement", 
-        "montant": "40265.00", 
-        "nombre": "27", 
+        "montant": "44765.00", 
+        "nombre": "30", 
         "section_naf": "P"
       }, 
       {
@@ -328,1007 +334,1001 @@
         "section_naf": "M"
       }, 
       {
-        "libelle_section_naf": "Transports et entreposage", 
-        "montant": "31080.00", 
-        "nombre": "21", 
-        "section_naf": "H"
-      }, 
-      {
         "libelle_section_naf": "Autres activit\u00e9s de services", 
-        "montant": "20897.00", 
-        "nombre": "14", 
+        "montant": "24999.00", 
+        "nombre": "18", 
         "section_naf": "S"
       }, 
       {
-        "libelle_section_naf": "Arts, spectacles et activit\u00e9s r\u00e9cr\u00e9atives", 
-        "montant": "19705.00", 
-        "nombre": "14", 
-        "section_naf": "R"
-      }, 
-      {
         "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
-        "montant": "20900.00", 
-        "nombre": "14", 
+        "montant": "26895.00", 
+        "nombre": "18", 
         "section_naf": "N"
       }, 
       {
+        "libelle_section_naf": "Industrie manufacturi\u00e8re", 
+        "montant": "24206.00", 
+        "nombre": "17", 
+        "section_naf": "C"
+      }, 
+      {
         "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
-        "montant": "17372.00", 
-        "nombre": "12", 
+        "montant": "21872.00", 
+        "nombre": "15", 
         "section_naf": "Q"
       }, 
       {
         "libelle_section_naf": "Autres sections NAF", 
-        "montant": "33330.00", 
-        "nombre": "24", 
+        "montant": "42368.00", 
+        "nombre": "31", 
         "section_naf": "Autres"
       }
     ], 
     "libelle": "Mayotte", 
-    "montant": "440100.00", 
-    "nombre": "303", 
+    "montant": "599767.00", 
+    "nombre": "418", 
     "reg": "06"
   }, 
   {
     "kpi_top_10_naf": [
       {
         "libelle_section_naf": "Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques", 
-        "montant": "27453125.00", 
-        "nombre": "19841", 
+        "montant": "30392084.00", 
+        "nombre": "22023", 
         "section_naf": "M"
       }, 
       {
         "libelle_section_naf": "Commerce ; r\u00e9paration d'automobiles et de motocycles", 
-        "montant": "26079369.00", 
-        "nombre": "18914", 
+        "montant": "28665071.00", 
+        "nombre": "20908", 
         "section_naf": "G"
       }, 
       {
         "libelle_section_naf": "Transports et entreposage", 
-        "montant": "26344655.00", 
-        "nombre": "18271", 
+        "montant": "29978297.00", 
+        "nombre": "20844", 
         "section_naf": "H"
       }, 
       {
         "libelle_section_naf": "Autres activit\u00e9s de services", 
-        "montant": "17094095.00", 
-        "nombre": "13244", 
+        "montant": "18522349.00", 
+        "nombre": "14414", 
         "section_naf": "S"
       }, 
       {
         "libelle_section_naf": "H\u00e9bergement et restauration", 
-        "montant": "17727202.00", 
-        "nombre": "12026", 
+        "montant": "19221882.00", 
+        "nombre": "13063", 
         "section_naf": "I"
       }, 
       {
         "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
-        "montant": "15055781.00", 
-        "nombre": "11165", 
+        "montant": "16429069.00", 
+        "nombre": "12208", 
         "section_naf": "Q"
       }, 
       {
         "libelle_section_naf": "Construction", 
-        "montant": "13857446.00", 
-        "nombre": "9593", 
+        "montant": "15623589.00", 
+        "nombre": "10831", 
         "section_naf": "F"
       }, 
       {
         "libelle_section_naf": "Arts, spectacles et activit\u00e9s r\u00e9cr\u00e9atives", 
-        "montant": "9960547.00", 
-        "nombre": "7709", 
+        "montant": "10966911.00", 
+        "nombre": "8520", 
         "section_naf": "R"
       }, 
       {
         "libelle_section_naf": "Enseignement", 
-        "montant": "7175320.00", 
-        "nombre": "5841", 
+        "montant": "7844755.00", 
+        "nombre": "6416", 
         "section_naf": "P"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
-        "montant": "6798026.00", 
-        "nombre": "5078", 
+        "montant": "7615852.00", 
+        "nombre": "5732", 
         "section_naf": "N"
       }, 
       {
         "libelle_section_naf": "Autres sections NAF", 
-        "montant": "18428742.00", 
-        "nombre": "13362", 
+        "montant": "20072510.00", 
+        "nombre": "14580", 
         "section_naf": "Autres"
       }
     ], 
     "libelle": "\u00cele-de-France", 
-    "montant": "185974308.00", 
-    "nombre": "135044", 
+    "montant": "205332369.00", 
+    "nombre": "149539", 
     "reg": "11"
   }, 
   {
     "kpi_top_10_naf": [
       {
         "libelle_section_naf": "Commerce ; r\u00e9paration d'automobiles et de motocycles", 
-        "montant": "5239403.00", 
-        "nombre": "3966", 
+        "montant": "5615835.00", 
+        "nombre": "4262", 
         "section_naf": "G"
       }, 
       {
         "libelle_section_naf": "Autres activit\u00e9s de services", 
-        "montant": "4850604.00", 
-        "nombre": "3953", 
+        "montant": "5108149.00", 
+        "nombre": "4167", 
         "section_naf": "S"
       }, 
       {
         "libelle_section_naf": "H\u00e9bergement et restauration", 
-        "montant": "4109372.00", 
-        "nombre": "2882", 
+        "montant": "4446949.00", 
+        "nombre": "3119", 
         "section_naf": "I"
       }, 
       {
         "libelle_section_naf": "Construction", 
-        "montant": "4057801.00", 
-        "nombre": "2838", 
+        "montant": "4362347.00", 
+        "nombre": "3053", 
         "section_naf": "F"
       }, 
       {
         "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
-        "montant": "2395099.00", 
-        "nombre": "1814", 
+        "montant": "2549313.00", 
+        "nombre": "1933", 
         "section_naf": "Q"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques", 
-        "montant": "1995258.00", 
-        "nombre": "1496", 
+        "montant": "2123495.00", 
+        "nombre": "1593", 
         "section_naf": "M"
       }, 
       {
         "libelle_section_naf": "Enseignement", 
-        "montant": "1210388.00", 
-        "nombre": "971", 
+        "montant": "1280927.00", 
+        "nombre": "1032", 
         "section_naf": "P"
       }, 
       {
         "libelle_section_naf": "Industrie manufacturi\u00e8re", 
-        "montant": "1193058.00", 
-        "nombre": "960", 
+        "montant": "1266635.00", 
+        "nombre": "1022", 
         "section_naf": "C"
       }, 
       {
         "libelle_section_naf": "Arts, spectacles et activit\u00e9s r\u00e9cr\u00e9atives", 
-        "montant": "1068241.00", 
-        "nombre": "896", 
+        "montant": "1136604.00", 
+        "nombre": "959", 
         "section_naf": "R"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
-        "montant": "968903.00", 
-        "nombre": "770", 
+        "montant": "1048097.00", 
+        "nombre": "833", 
         "section_naf": "N"
       }, 
       {
         "libelle_section_naf": "Autres sections NAF", 
-        "montant": "2572876.00", 
-        "nombre": "1898", 
+        "montant": "2753081.00", 
+        "nombre": "2036", 
         "section_naf": "Autres"
       }
     ], 
     "libelle": "Centre-Val de Loire", 
-    "montant": "29661003.00", 
-    "nombre": "22444", 
+    "montant": "31691432.00", 
+    "nombre": "24009", 
     "reg": "24"
   }, 
   {
     "kpi_top_10_naf": [
       {
         "libelle_section_naf": "Commerce ; r\u00e9paration d'automobiles et de motocycles", 
-        "montant": "6580716.00", 
-        "nombre": "4904", 
+        "montant": "7052164.00", 
+        "nombre": "5273", 
         "section_naf": "G"
       }, 
       {
         "libelle_section_naf": "Autres activit\u00e9s de services", 
-        "montant": "5680129.00", 
-        "nombre": "4574", 
+        "montant": "5912681.00", 
+        "nombre": "4764", 
         "section_naf": "S"
       }, 
       {
         "libelle_section_naf": "H\u00e9bergement et restauration", 
-        "montant": "5213156.00", 
-        "nombre": "3660", 
+        "montant": "5607357.00", 
+        "nombre": "3938", 
         "section_naf": "I"
       }, 
       {
         "libelle_section_naf": "Construction", 
-        "montant": "3983460.00", 
-        "nombre": "2767", 
+        "montant": "4359869.00", 
+        "nombre": "3028", 
         "section_naf": "F"
       }, 
       {
         "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
-        "montant": "2955904.00", 
-        "nombre": "2217", 
+        "montant": "3120966.00", 
+        "nombre": "2344", 
         "section_naf": "Q"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques", 
-        "montant": "2088728.00", 
-        "nombre": "1565", 
+        "montant": "2231773.00", 
+        "nombre": "1672", 
         "section_naf": "M"
       }, 
       {
         "libelle_section_naf": "Enseignement", 
-        "montant": "1449413.00", 
-        "nombre": "1212", 
+        "montant": "1555432.00", 
+        "nombre": "1305", 
         "section_naf": "P"
       }, 
       {
         "libelle_section_naf": "Industrie manufacturi\u00e8re", 
-        "montant": "1470346.00", 
-        "nombre": "1194", 
+        "montant": "1550375.00", 
+        "nombre": "1263", 
         "section_naf": "C"
       }, 
       {
         "libelle_section_naf": "Arts, spectacles et activit\u00e9s r\u00e9cr\u00e9atives", 
-        "montant": "1139563.00", 
-        "nombre": "954", 
+        "montant": "1234662.00", 
+        "nombre": "1029", 
         "section_naf": "R"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
-        "montant": "1034288.00", 
-        "nombre": "820", 
+        "montant": "1106934.00", 
+        "nombre": "878", 
         "section_naf": "N"
       }, 
       {
         "libelle_section_naf": "Autres sections NAF", 
-        "montant": "2693879.00", 
-        "nombre": "2014", 
+        "montant": "2896419.00", 
+        "nombre": "2167", 
         "section_naf": "Autres"
       }
     ], 
     "libelle": "Bourgogne-Franche-Comt\u00e9", 
-    "montant": "34289582.00", 
-    "nombre": "25881", 
+    "montant": "36628632.00", 
+    "nombre": "27661", 
     "reg": "27"
   }, 
   {
     "kpi_top_10_naf": [
       {
         "libelle_section_naf": "Commerce ; r\u00e9paration d'automobiles et de motocycles", 
-        "montant": "7834137.00", 
-        "nombre": "5901", 
+        "montant": "8401423.00", 
+        "nombre": "6340", 
         "section_naf": "G"
       }, 
       {
         "libelle_section_naf": "Autres activit\u00e9s de services", 
-        "montant": "6568496.00", 
-        "nombre": "5487", 
+        "montant": "6859483.00", 
+        "nombre": "5735", 
         "section_naf": "S"
       }, 
       {
         "libelle_section_naf": "H\u00e9bergement et restauration", 
-        "montant": "5641589.00", 
-        "nombre": "3926", 
+        "montant": "6109073.00", 
+        "nombre": "4259", 
         "section_naf": "I"
       }, 
       {
         "libelle_section_naf": "Construction", 
-        "montant": "4606879.00", 
-        "nombre": "3211", 
+        "montant": "4969842.00", 
+        "nombre": "3468", 
         "section_naf": "F"
       }, 
       {
         "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
-        "montant": "3037503.00", 
-        "nombre": "2300", 
+        "montant": "3213655.00", 
+        "nombre": "2436", 
         "section_naf": "Q"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques", 
-        "montant": "2581346.00", 
-        "nombre": "1921", 
+        "montant": "2779006.00", 
+        "nombre": "2065", 
         "section_naf": "M"
       }, 
       {
         "libelle_section_naf": "Enseignement", 
-        "montant": "1453630.00", 
-        "nombre": "1220", 
+        "montant": "1547348.00", 
+        "nombre": "1303", 
         "section_naf": "P"
       }, 
       {
         "libelle_section_naf": "Industrie manufacturi\u00e8re", 
-        "montant": "1339733.00", 
-        "nombre": "1088", 
+        "montant": "1448138.00", 
+        "nombre": "1171", 
         "section_naf": "C"
       }, 
       {
         "libelle_section_naf": "Arts, spectacles et activit\u00e9s r\u00e9cr\u00e9atives", 
-        "montant": "1286854.00", 
-        "nombre": "1080", 
+        "montant": "1372894.00", 
+        "nombre": "1150", 
         "section_naf": "R"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
-        "montant": "1107965.00", 
-        "nombre": "896", 
+        "montant": "1196827.00", 
+        "nombre": "970", 
         "section_naf": "N"
       }, 
       {
         "libelle_section_naf": "Autres sections NAF", 
-        "montant": "3111931.00", 
-        "nombre": "2319", 
+        "montant": "3343193.00", 
+        "nombre": "2497", 
         "section_naf": "Autres"
       }
     ], 
     "libelle": "Normandie", 
-    "montant": "38570063.00", 
-    "nombre": "29349", 
+    "montant": "41240882.00", 
+    "nombre": "31394", 
     "reg": "28"
   }, 
   {
     "kpi_top_10_naf": [
       {
         "libelle_section_naf": "Commerce ; r\u00e9paration d'automobiles et de motocycles", 
-        "montant": "11517956.00", 
-        "nombre": "8911", 
+        "montant": "12337939.00", 
+        "nombre": "9582", 
         "section_naf": "G"
       }, 
       {
         "libelle_section_naf": "Autres activit\u00e9s de services", 
-        "montant": "10180329.00", 
-        "nombre": "8858", 
+        "montant": "10680716.00", 
+        "nombre": "9286", 
         "section_naf": "S"
       }, 
       {
         "libelle_section_naf": "H\u00e9bergement et restauration", 
-        "montant": "8492428.00", 
-        "nombre": "5868", 
+        "montant": "9163667.00", 
+        "nombre": "6336", 
         "section_naf": "I"
       }, 
       {
         "libelle_section_naf": "Construction", 
-        "montant": "7439681.00", 
-        "nombre": "5252", 
+        "montant": "8049726.00", 
+        "nombre": "5682", 
         "section_naf": "F"
       }, 
       {
         "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
-        "montant": "5503005.00", 
-        "nombre": "4103", 
+        "montant": "5926627.00", 
+        "nombre": "4412", 
         "section_naf": "Q"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques", 
-        "montant": "4505487.00", 
-        "nombre": "3342", 
+        "montant": "4850565.00", 
+        "nombre": "3594", 
         "section_naf": "M"
       }, 
       {
         "libelle_section_naf": "Enseignement", 
-        "montant": "2344235.00", 
-        "nombre": "1888", 
+        "montant": "2472448.00", 
+        "nombre": "1996", 
         "section_naf": "P"
       }, 
       {
         "libelle_section_naf": "Arts, spectacles et activit\u00e9s r\u00e9cr\u00e9atives", 
-        "montant": "2031335.00", 
-        "nombre": "1702", 
+        "montant": "2152573.00", 
+        "nombre": "1807", 
         "section_naf": "R"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
-        "montant": "2044905.00", 
-        "nombre": "1642", 
+        "montant": "2185928.00", 
+        "nombre": "1756", 
         "section_naf": "N"
       }, 
       {
-        "libelle_section_naf": "Industrie manufacturi\u00e8re", 
-        "montant": "1924035.00", 
-        "nombre": "1590", 
-        "section_naf": "C"
+        "libelle_section_naf": "Transports et entreposage", 
+        "montant": "2413167.00", 
+        "nombre": "1750", 
+        "section_naf": "H"
       }, 
       {
         "libelle_section_naf": "Autres sections NAF", 
-        "montant": "5301338.00", 
-        "nombre": "3925", 
+        "montant": "5430900.00", 
+        "nombre": "4238", 
         "section_naf": "Autres"
       }
     ], 
     "libelle": "Hauts-de-France", 
-    "montant": "61284734.00", 
-    "nombre": "47081", 
+    "montant": "65664256.00", 
+    "nombre": "50439", 
     "reg": "32"
   }, 
   {
     "kpi_top_10_naf": [
       {
         "libelle_section_naf": "Autres activit\u00e9s de services", 
-        "montant": "10490457.00", 
-        "nombre": "8824", 
+        "montant": "11029768.00", 
+        "nombre": "9280", 
         "section_naf": "S"
       }, 
       {
         "libelle_section_naf": "Commerce ; r\u00e9paration d'automobiles et de motocycles", 
-        "montant": "11426120.00", 
-        "nombre": "8480", 
+        "montant": "12340104.00", 
+        "nombre": "9173", 
         "section_naf": "G"
       }, 
       {
         "libelle_section_naf": "H\u00e9bergement et restauration", 
-        "montant": "8557514.00", 
-        "nombre": "5909", 
+        "montant": "9249217.00", 
+        "nombre": "6396", 
         "section_naf": "I"
       }, 
       {
         "libelle_section_naf": "Construction", 
-        "montant": "8130916.00", 
-        "nombre": "5636", 
+        "montant": "8819587.00", 
+        "nombre": "6115", 
         "section_naf": "F"
       }, 
       {
         "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
-        "montant": "5437911.00", 
-        "nombre": "4026", 
+        "montant": "5815229.00", 
+        "nombre": "4301", 
         "section_naf": "Q"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques", 
-        "montant": "4460571.00", 
-        "nombre": "3310", 
+        "montant": "4797814.00", 
+        "nombre": "3563", 
         "section_naf": "M"
       }, 
       {
         "libelle_section_naf": "Enseignement", 
-        "montant": "2446380.00", 
-        "nombre": "2009", 
+        "montant": "2593536.00", 
+        "nombre": "2136", 
         "section_naf": "P"
       }, 
       {
         "libelle_section_naf": "Industrie manufacturi\u00e8re", 
-        "montant": "2519077.00", 
-        "nombre": "1961", 
+        "montant": "2696363.00", 
+        "nombre": "2104", 
         "section_naf": "C"
       }, 
       {
         "libelle_section_naf": "Arts, spectacles et activit\u00e9s r\u00e9cr\u00e9atives", 
-        "montant": "1939883.00", 
-        "nombre": "1641", 
+        "montant": "2071385.00", 
+        "nombre": "1758", 
         "section_naf": "R"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
-        "montant": "1906532.00", 
-        "nombre": "1517", 
+        "montant": "2067651.00", 
+        "nombre": "1649", 
         "section_naf": "N"
       }, 
       {
         "libelle_section_naf": "Autres sections NAF", 
-        "montant": "4996616.00", 
-        "nombre": "3686", 
+        "montant": "5403428.00", 
+        "nombre": "4002", 
         "section_naf": "Autres"
       }
     ], 
     "libelle": "Grand Est", 
-    "montant": "62311977.00", 
-    "nombre": "46999", 
+    "montant": "66884082.00", 
+    "nombre": "50477", 
     "reg": "44"
   }, 
   {
     "kpi_top_10_naf": [
       {
         "libelle_section_naf": "Autres activit\u00e9s de services", 
-        "montant": "7753111.00", 
-        "nombre": "6302", 
+        "montant": "8073800.00", 
+        "nombre": "6571", 
         "section_naf": "S"
       }, 
       {
         "libelle_section_naf": "Commerce ; r\u00e9paration d'automobiles et de motocycles", 
-        "montant": "7906290.00", 
-        "nombre": "5992", 
+        "montant": "8459517.00", 
+        "nombre": "6428", 
         "section_naf": "G"
       }, 
       {
         "libelle_section_naf": "H\u00e9bergement et restauration", 
-        "montant": "6174170.00", 
-        "nombre": "4286", 
+        "montant": "6606160.00", 
+        "nombre": "4596", 
         "section_naf": "I"
       }, 
       {
         "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
-        "montant": "5342305.00", 
-        "nombre": "4050", 
+        "montant": "5664115.00", 
+        "nombre": "4291", 
         "section_naf": "Q"
       }, 
       {
         "libelle_section_naf": "Construction", 
-        "montant": "5313643.00", 
-        "nombre": "3700", 
+        "montant": "5694332.00", 
+        "nombre": "3963", 
         "section_naf": "F"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques", 
-        "montant": "3985175.00", 
-        "nombre": "2945", 
+        "montant": "4301174.00", 
+        "nombre": "3178", 
         "section_naf": "M"
       }, 
       {
         "libelle_section_naf": "Industrie manufacturi\u00e8re", 
-        "montant": "1839377.00", 
-        "nombre": "1518", 
+        "montant": "1985398.00", 
+        "nombre": "1641", 
         "section_naf": "C"
       }, 
       {
         "libelle_section_naf": "Enseignement", 
-        "montant": "1812077.00", 
-        "nombre": "1512", 
+        "montant": "1929244.00", 
+        "nombre": "1612", 
         "section_naf": "P"
       }, 
       {
         "libelle_section_naf": "Arts, spectacles et activit\u00e9s r\u00e9cr\u00e9atives", 
-        "montant": "1774514.00", 
-        "nombre": "1490", 
+        "montant": "1877060.00", 
+        "nombre": "1582", 
         "section_naf": "R"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
-        "montant": "1427629.00", 
-        "nombre": "1120", 
+        "montant": "1535399.00", 
+        "nombre": "1205", 
         "section_naf": "N"
       }, 
       {
         "libelle_section_naf": "Autres sections NAF", 
-        "montant": "4429331.00", 
-        "nombre": "3268", 
+        "montant": "4757373.00", 
+        "nombre": "3511", 
         "section_naf": "Autres"
       }
     ], 
     "libelle": "Pays de la Loire", 
-    "montant": "47757622.00", 
-    "nombre": "36183", 
+    "montant": "50883572.00", 
+    "nombre": "38578", 
     "reg": "52"
   }, 
   {
     "kpi_top_10_naf": [
       {
         "libelle_section_naf": "Commerce ; r\u00e9paration d'automobiles et de motocycles", 
-        "montant": "7612042.00", 
-        "nombre": "5636", 
+        "montant": "8163591.00", 
+        "nombre": "6047", 
         "section_naf": "G"
       }, 
       {
         "libelle_section_naf": "H\u00e9bergement et restauration", 
-        "montant": "7419603.00", 
-        "nombre": "5169", 
+        "montant": "7945353.00", 
+        "nombre": "5542", 
         "section_naf": "I"
       }, 
       {
         "libelle_section_naf": "Autres activit\u00e9s de services", 
-        "montant": "6278539.00", 
-        "nombre": "5038", 
+        "montant": "6586412.00", 
+        "nombre": "5299", 
         "section_naf": "S"
       }, 
       {
         "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
-        "montant": "4846607.00", 
-        "nombre": "3620", 
+        "montant": "5162550.00", 
+        "nombre": "3849", 
         "section_naf": "Q"
       }, 
       {
         "libelle_section_naf": "Construction", 
-        "montant": "4806719.00", 
-        "nombre": "3346", 
+        "montant": "5119102.00", 
+        "nombre": "3566", 
         "section_naf": "F"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques", 
-        "montant": "3077791.00", 
-        "nombre": "2300", 
+        "montant": "3319822.00", 
+        "nombre": "2485", 
         "section_naf": "M"
       }, 
       {
         "libelle_section_naf": "Industrie manufacturi\u00e8re", 
-        "montant": "1861227.00", 
-        "nombre": "1565", 
+        "montant": "2003820.00", 
+        "nombre": "1682", 
         "section_naf": "C"
       }, 
       {
         "libelle_section_naf": "Enseignement", 
-        "montant": "1607563.00", 
-        "nombre": "1320", 
+        "montant": "1703725.00", 
+        "nombre": "1402", 
         "section_naf": "P"
       }, 
       {
         "libelle_section_naf": "Arts, spectacles et activit\u00e9s r\u00e9cr\u00e9atives", 
-        "montant": "1397678.00", 
-        "nombre": "1171", 
+        "montant": "1491550.00", 
+        "nombre": "1263", 
         "section_naf": "R"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
-        "montant": "1282853.00", 
-        "nombre": "1028", 
+        "montant": "1392805.00", 
+        "nombre": "1114", 
         "section_naf": "N"
       }, 
       {
         "libelle_section_naf": "Autres sections NAF", 
-        "montant": "3333752.00", 
-        "nombre": "2490", 
+        "montant": "3569417.00", 
+        "nombre": "2669", 
         "section_naf": "Autres"
       }
     ], 
     "libelle": "Bretagne", 
-    "montant": "43524374.00", 
-    "nombre": "32683", 
+    "montant": "46458147.00", 
+    "nombre": "34918", 
     "reg": "53"
   }, 
   {
     "kpi_top_10_naf": [
       {
         "libelle_section_naf": "Commerce ; r\u00e9paration d'automobiles et de motocycles", 
-        "montant": "17288696.00", 
-        "nombre": "12969", 
+        "montant": "18545903.00", 
+        "nombre": "13956", 
         "section_naf": "G"
       }, 
       {
         "libelle_section_naf": "Autres activit\u00e9s de services", 
-        "montant": "14083898.00", 
-        "nombre": "11713", 
+        "montant": "14786759.00", 
+        "nombre": "12336", 
         "section_naf": "S"
       }, 
       {
         "libelle_section_naf": "Construction", 
-        "montant": "13042774.00", 
-        "nombre": "9126", 
+        "montant": "14172782.00", 
+        "nombre": "9925", 
         "section_naf": "F"
       }, 
       {
         "libelle_section_naf": "H\u00e9bergement et restauration", 
-        "montant": "12201036.00", 
-        "nombre": "8625", 
+        "montant": "13136649.00", 
+        "nombre": "9305", 
         "section_naf": "I"
       }, 
       {
         "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
-        "montant": "9729294.00", 
-        "nombre": "7434", 
+        "montant": "10406974.00", 
+        "nombre": "7951", 
         "section_naf": "Q"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques", 
-        "montant": "7734397.00", 
-        "nombre": "5765", 
+        "montant": "8340789.00", 
+        "nombre": "6218", 
         "section_naf": "M"
       }, 
       {
         "libelle_section_naf": "Industrie manufacturi\u00e8re", 
-        "montant": "4262030.00", 
-        "nombre": "3513", 
+        "montant": "4536909.00", 
+        "nombre": "3751", 
         "section_naf": "C"
       }, 
       {
         "libelle_section_naf": "Enseignement", 
-        "montant": "3984640.00", 
-        "nombre": "3443", 
+        "montant": "4236099.00", 
+        "nombre": "3679", 
         "section_naf": "P"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
-        "montant": "3607926.00", 
-        "nombre": "2895", 
+        "montant": "3898676.00", 
+        "nombre": "3144", 
         "section_naf": "N"
       }, 
       {
         "libelle_section_naf": "Arts, spectacles et activit\u00e9s r\u00e9cr\u00e9atives", 
-        "montant": "3140205.00", 
-        "nombre": "2653", 
+        "montant": "3366577.00", 
+        "nombre": "2858", 
         "section_naf": "R"
       }, 
       {
         "libelle_section_naf": "Autres sections NAF", 
-        "montant": "9296492.00", 
-        "nombre": "6867", 
+        "montant": "10021268.00", 
+        "nombre": "7400", 
         "section_naf": "Autres"
       }
     ], 
     "libelle": "Nouvelle-Aquitaine", 
-    "montant": "98371388.00", 
-    "nombre": "75003", 
+    "montant": "105449385.00", 
+    "nombre": "80523", 
     "reg": "75"
   }, 
   {
     "kpi_top_10_naf": [
       {
         "libelle_section_naf": "Commerce ; r\u00e9paration d'automobiles et de motocycles", 
-        "montant": "18721009.00", 
-        "nombre": "14249", 
+        "montant": "20159368.00", 
+        "nombre": "15374", 
         "section_naf": "G"
       }, 
       {
         "libelle_section_naf": "Autres activit\u00e9s de services", 
-        "montant": "13640371.00", 
-        "nombre": "11874", 
+        "montant": "14400197.00", 
+        "nombre": "12552", 
         "section_naf": "S"
       }, 
       {
         "libelle_section_naf": "Construction", 
-        "montant": "15815703.00", 
-        "nombre": "11142", 
+        "montant": "17198913.00", 
+        "nombre": "12129", 
         "section_naf": "F"
       }, 
       {
         "libelle_section_naf": "H\u00e9bergement et restauration", 
-        "montant": "14356199.00", 
-        "nombre": "10168", 
+        "montant": "15496162.00", 
+        "nombre": "10997", 
         "section_naf": "I"
       }, 
       {
         "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
-        "montant": "9044179.00", 
-        "nombre": "6997", 
+        "montant": "9867577.00", 
+        "nombre": "7619", 
         "section_naf": "Q"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques", 
-        "montant": "8610306.00", 
-        "nombre": "6360", 
+        "montant": "9316760.00", 
+        "nombre": "6890", 
         "section_naf": "M"
       }, 
       {
         "libelle_section_naf": "Enseignement", 
-        "montant": "4720140.00", 
-        "nombre": "4075", 
+        "montant": "5064190.00", 
+        "nombre": "4386", 
         "section_naf": "P"
       }, 
       {
         "libelle_section_naf": "Industrie manufacturi\u00e8re", 
-        "montant": "4340776.00", 
-        "nombre": "3589", 
+        "montant": "4624217.00", 
+        "nombre": "3844", 
         "section_naf": "C"
       }, 
       {
-        "libelle_section_naf": "Arts, spectacles et activit\u00e9s r\u00e9cr\u00e9atives", 
-        "montant": "3639465.00", 
-        "nombre": "3106", 
-        "section_naf": "R"
-      }, 
-      {
         "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
-        "montant": "3822691.00", 
-        "nombre": "3103", 
+        "montant": "4166180.00", 
+        "nombre": "3386", 
         "section_naf": "N"
       }, 
       {
+        "libelle_section_naf": "Arts, spectacles et activit\u00e9s r\u00e9cr\u00e9atives", 
+        "montant": "3922759.00", 
+        "nombre": "3352", 
+        "section_naf": "R"
+      }, 
+      {
         "libelle_section_naf": "Autres sections NAF", 
-        "montant": "9940442.00", 
-        "nombre": "7436", 
+        "montant": "10828624.00", 
+        "nombre": "8104", 
         "section_naf": "Autres"
       }
     ], 
     "libelle": "Occitanie", 
-    "montant": "106651281.00", 
-    "nombre": "82099", 
+    "montant": "115044947.00", 
+    "nombre": "88633", 
     "reg": "76"
   }, 
   {
     "kpi_top_10_naf": [
       {
         "libelle_section_naf": "Commerce ; r\u00e9paration d'automobiles et de motocycles", 
-        "montant": "20546600.00", 
-        "nombre": "15245", 
+        "montant": "22138754.00", 
+        "nombre": "16468", 
         "section_naf": "G"
       }, 
       {
         "libelle_section_naf": "Autres activit\u00e9s de services", 
-        "montant": "16814535.00", 
-        "nombre": "13792", 
+        "montant": "17793212.00", 
+        "nombre": "14612", 
         "section_naf": "S"
       }, 
       {
         "libelle_section_naf": "H\u00e9bergement et restauration", 
-        "montant": "17801965.00", 
-        "nombre": "12321", 
+        "montant": "19230355.00", 
+        "nombre": "13329", 
         "section_naf": "I"
       }, 
       {
         "libelle_section_naf": "Construction", 
-        "montant": "15824147.00", 
-        "nombre": "10968", 
+        "montant": "17400066.00", 
+        "nombre": "12075", 
         "section_naf": "F"
       }, 
       {
         "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
-        "montant": "13338527.00", 
-        "nombre": "9968", 
+        "montant": "14430690.00", 
+        "nombre": "10776", 
         "section_naf": "Q"
       }, 
       {
         "libelle_section_naf": "Enseignement", 
-        "montant": "11487283.00", 
-        "nombre": "8961", 
+        "montant": "12225513.00", 
+        "nombre": "9546", 
         "section_naf": "P"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques", 
-        "montant": "10488179.00", 
-        "nombre": "7740", 
+        "montant": "11413815.00", 
+        "nombre": "8433", 
         "section_naf": "M"
       }, 
       {
         "libelle_section_naf": "Industrie manufacturi\u00e8re", 
-        "montant": "5101448.00", 
-        "nombre": "4025", 
+        "montant": "5537566.00", 
+        "nombre": "4375", 
         "section_naf": "C"
       }, 
       {
         "libelle_section_naf": "Arts, spectacles et activit\u00e9s r\u00e9cr\u00e9atives", 
-        "montant": "4896436.00", 
-        "nombre": "4020", 
+        "montant": "5249446.00", 
+        "nombre": "4314", 
         "section_naf": "R"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
-        "montant": "4640463.00", 
-        "nombre": "3612", 
+        "montant": "5060614.00", 
+        "nombre": "3945", 
         "section_naf": "N"
       }, 
       {
         "libelle_section_naf": "Autres sections NAF", 
-        "montant": "12025971.00", 
-        "nombre": "8785", 
+        "montant": "13096356.00", 
+        "nombre": "9587", 
         "section_naf": "Autres"
       }
     ], 
     "libelle": "Auvergne-Rh\u00f4ne-Alpes", 
-    "montant": "132965554.00", 
-    "nombre": "99437", 
+    "montant": "143576387.00", 
+    "nombre": "107460", 
     "reg": "84"
   }, 
   {
     "kpi_top_10_naf": [
       {
         "libelle_section_naf": "Commerce ; r\u00e9paration d'automobiles et de motocycles", 
-        "montant": "19741914.00", 
-        "nombre": "14808", 
+        "montant": "21361652.00", 
+        "nombre": "16079", 
         "section_naf": "G"
       }, 
       {
         "libelle_section_naf": "Autres activit\u00e9s de services", 
-        "montant": "12670184.00", 
-        "nombre": "10780", 
+        "montant": "13534896.00", 
+        "nombre": "11519", 
         "section_naf": "S"
       }, 
       {
         "libelle_section_naf": "H\u00e9bergement et restauration", 
-        "montant": "13494121.00", 
-        "nombre": "9393", 
+        "montant": "14669002.00", 
+        "nombre": "10213", 
         "section_naf": "I"
       }, 
       {
         "libelle_section_naf": "Construction", 
-        "montant": "13105524.00", 
-        "nombre": "9184", 
+        "montant": "14278866.00", 
+        "nombre": "10011", 
         "section_naf": "F"
       }, 
       {
         "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
-        "montant": "8978976.00", 
-        "nombre": "6851", 
+        "montant": "9710838.00", 
+        "nombre": "7412", 
         "section_naf": "Q"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques", 
-        "montant": "9289302.00", 
-        "nombre": "6826", 
+        "montant": "10056429.00", 
+        "nombre": "7393", 
         "section_naf": "M"
       }, 
       {
         "libelle_section_naf": "Enseignement", 
-        "montant": "5426436.00", 
-        "nombre": "4454", 
+        "montant": "5757207.00", 
+        "nombre": "4752", 
         "section_naf": "P"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
-        "montant": "4824756.00", 
-        "nombre": "3763", 
+        "montant": "5200167.00", 
+        "nombre": "4057", 
         "section_naf": "N"
       }, 
       {
         "libelle_section_naf": "Industrie manufacturi\u00e8re", 
-        "montant": "4188311.00", 
-        "nombre": "3280", 
+        "montant": "4525150.00", 
+        "nombre": "3552", 
         "section_naf": "C"
       }, 
       {
         "libelle_section_naf": "Arts, spectacles et activit\u00e9s r\u00e9cr\u00e9atives", 
-        "montant": "3730648.00", 
-        "nombre": "3037", 
+        "montant": "4017288.00", 
+        "nombre": "3275", 
         "section_naf": "R"
       }, 
       {
         "libelle_section_naf": "Autres sections NAF", 
-        "montant": "11466416.00", 
-        "nombre": "8325", 
+        "montant": "12395620.00", 
+        "nombre": "9020", 
         "section_naf": "Autres"
       }
     ], 
     "libelle": "Provence-Alpes-C\u00f4te d'Azur", 
-    "montant": "106916588.00", 
-    "nombre": "80701", 
+    "montant": "115507115.00", 
+    "nombre": "87283", 
     "reg": "93"
   }, 
   {
     "kpi_top_10_naf": [
       {
         "libelle_section_naf": "Commerce ; r\u00e9paration d'automobiles et de motocycles", 
-        "montant": "1318531.00", 
-        "nombre": "957", 
+        "montant": "1410408.00", 
+        "nombre": "1024", 
         "section_naf": "G"
       }, 
       {
         "libelle_section_naf": "Construction", 
-        "montant": "1223095.00", 
-        "nombre": "860", 
+        "montant": "1357495.00", 
+        "nombre": "956", 
         "section_naf": "F"
       }, 
       {
         "libelle_section_naf": "H\u00e9bergement et restauration", 
-        "montant": "1131505.00", 
-        "nombre": "796", 
+        "montant": "1206408.00", 
+        "nombre": "848", 
         "section_naf": "I"
       }, 
       {
         "libelle_section_naf": "Autres activit\u00e9s de services", 
-        "montant": "809063.00", 
-        "nombre": "691", 
+        "montant": "858890.00", 
+        "nombre": "735", 
         "section_naf": "S"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s sp\u00e9cialis\u00e9es, scientifiques et techniques", 
-        "montant": "828984.00", 
-        "nombre": "594", 
+        "montant": "880876.00", 
+        "nombre": "631", 
         "section_naf": "M"
       }, 
       {
-        "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
-        "montant": "488169.00", 
-        "nombre": "372", 
-        "section_naf": "Q"
-      }, 
-      {
         "libelle_section_naf": "Industrie manufacturi\u00e8re", 
-        "montant": "483914.00", 
-        "nombre": "370", 
+        "montant": "522048.00", 
+        "nombre": "398", 
         "section_naf": "C"
       }, 
       {
+        "libelle_section_naf": "Sant\u00e9 humaine et action sociale", 
+        "montant": "521619.00", 
+        "nombre": "396", 
+        "section_naf": "Q"
+      }, 
+      {
         "libelle_section_naf": "Agriculture, sylviculture et p\u00eache", 
-        "montant": "472908.00", 
-        "nombre": "337", 
+        "montant": "515043.00", 
+        "nombre": "366", 
         "section_naf": "A"
       }, 
       {
         "libelle_section_naf": "Activit\u00e9s de services administratifs et de soutien", 
-        "montant": "393712.00", 
-        "nombre": "317", 
+        "montant": "438724.00", 
+        "nombre": "352", 
         "section_naf": "N"
       }, 
       {
         "libelle_section_naf": "Enseignement", 
-        "montant": "244586.00", 
-        "nombre": "197", 
+        "montant": "258682.00", 
+        "nombre": "209", 
         "section_naf": "P"
       }, 
       {
         "libelle_section_naf": "Autres sections NAF", 
-        "montant": "686602.00", 
-        "nombre": "518", 
+        "montant": "737220.00", 
+        "nombre": "556", 
         "section_naf": "Autres"
       }
     ], 
     "libelle": "Corse", 
-    "montant": "8081069.00", 
-    "nombre": "6009", 
+    "montant": "8707413.00", 
+    "nombre": "6471", 
     "reg": "94"
   }, 
   {
@@ -1341,8 +1341,8 @@
       }
     ], 
     "libelle": "None", 
-    "montant": "948811.00", 
-    "nombre": "759", 
+    "montant": "1027918.00", 
+    "nombre": "821", 
     "reg": "None"
   }
 ]

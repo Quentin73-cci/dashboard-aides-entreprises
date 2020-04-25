@@ -16,3 +16,7 @@ curl http://localhost:5000/lastupdatehtml > last_update_data.txt
 
 cp last_update_data.txt ../../frontend/static/datasets/prod/
 
+curl http://localhost:5000/stat/report > reports/reports-maille-national.json
+curl http://localhost:5000/stat/report/reg > reports/reports-maille-regional.json
+curl http://localhost:5000/stat/report/dep > reports/reports-maille-departemental.json
+
