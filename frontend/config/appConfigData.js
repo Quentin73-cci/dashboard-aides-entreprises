@@ -1,6 +1,6 @@
 // const DATASETS_REPO_BASE = 'https://raw.githubusercontent.com/etalab/dashboard-aides-entreprises/master/frontend/static/' // in repo folder
 const DATASETS_REPO_BASE =
-  "https://raw.githubusercontent.com/etalab/dashboard-aides-entreprises/master/backend/json/" // in repo folder
+  "https://raw.githubusercontent.com/etalab/dashboard-aides-entreprises/g_report_echeance/backend/json/" // in repo folder
 const DATASETS_FOLDER = "/datasets" // in static folder
 // const AIDES_FILES_DATE    = '2020-04-17'
 // const AIDES_FILES_VERSION = '200417/sectionape'
