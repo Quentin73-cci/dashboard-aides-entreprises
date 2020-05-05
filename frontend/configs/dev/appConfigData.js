@@ -228,6 +228,15 @@ export const configAppData = {
           displayed: false,
         },
 
+        {
+          id: "taxo-catjur-colors",
+          help: "",
+          from: "static",
+          url: `${DATASETS_REPO_BASE}/taxonomies/categories-juridiques.json`,
+          backupUrl: `${DATASETS_FOLDER}/prod/taxonomies/categories-juridiques.json`,
+          displayed: false,
+        },
+
 
         // GEOJSON (NO NEED EXCEPT CENTERS : SOURCES LOADED IN MAPBOX COMPONENT )
         {

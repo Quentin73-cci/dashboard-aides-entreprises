@@ -1,8 +1,8 @@
 const KEY_DIVISION_NAF = "division_naf"
 const KEY_DIVISION_NAF_LABEL = "libelle_division_naf"
 
-const KEY_SECTION_NAF = "section_naf"
-const KEY_SECTION_NAF_LABEL = "libelle_section_naf"
+const KEY_SECTION_NAF = "code_cat_juridique"
+const KEY_SECTION_NAF_LABEL = "libelle_cat_juridique"
 
 export const configAppCharts = {
   help: "this file contains the setup for the apex charts",
@@ -19,7 +19,7 @@ export const configAppCharts = {
     {
       id: "apexchart-01",
       serie_id: "stat-bar-horiz",
-      help: "bar horiz / kpi_top_10_naf X montant",
+      help: "bar horiz / kpi_categorie_juridique X montant",
       titleI18n: "charts.chart01.title",
       chartTitle: {
         fr: `
@@ -42,7 +42,7 @@ export const configAppCharts = {
 
       datasetMappers: {
         specialStoreId: "focusObject",
-        fromDatasetKey: "kpi_top_10_naf",
+        fromDatasetKey: "kpi_categorie_juridique",
 
         seriesMappers: [
           {
@@ -74,11 +74,11 @@ export const configAppCharts = {
 
             buildColorsAxisX: true,
             buildColorsAxisXsettings: {
-              fromKey: "section_naf", // KEY_SECTION_NAF
+              fromKey: "code_cat_juridique", // KEY_SECTION_NAF
               // matchWithDataStore: "initData", // by default from initData
-              matchWithDatasetId : "taxo-nafs-colors",
-              matchKey: "code_section",
-              getValueFromKey: "color_section",
+              matchWithDatasetId : "taxo-catjur-colors",
+              matchKey: "code",
+              getValueFromKey: "color",
               fallbackColor: "#808080",
             }
           },
@@ -163,7 +163,7 @@ export const configAppCharts = {
     {
       id: "apexchart-01bis",
       serie_id: "stat-bar-horiz",
-      help: "bar horiz / kpi_top_10_naf X montant",
+      help: "bar horiz / kpi_categorie_juridique X montant",
       titleI18n: "charts.chart01.title",
       chartTitle: { fr: "Top 10 des aides par nombre de demandes <br>" },
       chartTitleClass: "subtitle-2 text-center",
@@ -178,7 +178,7 @@ export const configAppCharts = {
 
       datasetMappers: {
         specialStoreId: "focusObject",
-        fromDatasetKey: "kpi_top_10_naf",
+        fromDatasetKey: "kpi_categorie_juridique",
 
         seriesMappers: [
           {
