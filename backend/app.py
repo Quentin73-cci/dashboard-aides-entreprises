@@ -185,7 +185,7 @@ def getStatAideNationalSectionAPE():
             autresmontant = 0
             autresnombre = 0
             for l in range(len(data4)):
-                if(l<10):   
+                if(l<3):   
                     dataDict4 = {}
                     dataDict4['code_cat_juridique'] = str(data4[l][0]) 
                     dataDict4['montant'] = str(data4[l][1]) 
@@ -238,7 +238,7 @@ def getStatAideRegionalSectionAPE():
             autresmontant = 0
             autresnombre = 0
             for j in range(len(data2)):
-                if(j < 10):
+                if(j < 3):
                     dataDict2 = {}
                     dataDict2['section_naf'] = str(data2[j][0]) 
                     dataDict2['montant'] = str(data2[j][1]) 
@@ -348,7 +348,7 @@ def getStatAideDepartementalSectionAPE():
             autresmontant = 0
             autresnombre = 0
             for l in range(len(data4)):
-                if(l<10):   
+                if(l<3):   
                     dataDict4 = {}
                     dataDict4['code_cat_juridique'] = str(data4[l][0]) 
                     dataDict4['montant'] = str(data4[l][1]) 
